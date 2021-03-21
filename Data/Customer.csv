@@ -1,0 +1,11 @@
+CustId,AccountLocation,Title,FirstName,LastName,CreateDate,CountryCode,Language,Status,DateOfBirth,Contact,CustomerGroup
+4188499,GIB,Mr,Elvis,Presley,40848,US,en,A,17824,Y,Bronze
+1191874,GIB,Mr,Jim,Morrison,39710,US,en,A,24680,Y,Gold
+3042166,GIB,Mr,Keith,Moon,40554,UK ,en,A,25775,Y,Gold
+5694730,GIB,Mr,James,Hendrix,41192,US,en,A,27855,N,Bronze
+4704925,GIB,Mr,Marc,Bolan,40994,UK ,en,A,30021,Y,Bronze
+1569944,GIB,Miss,Janice,Joplin,39912,US,en,A,19958,Y,Gold
+3531845,GIB,Mr,Bon,Scott,40635,AU,en,A,27689,N,Silver
+2815836,GIB,Mr,Buddy,Holly,40468,US,en,A,23389,Y,Silver
+889782,GIB,Mr,Bob,Marley,39463,UK ,en,A,23485,Y,Silver
+1965214,GIB,Mr,Sidney,Vicious,40165,UK ,en,A,27984,N,Bronze
